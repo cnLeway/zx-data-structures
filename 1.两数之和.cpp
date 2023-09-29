@@ -1,3 +1,4 @@
+//
 // No pain, no gain. -- Leway Liu
 // 请在Solution中实现run函数
 #include <bits/stdc++.h>
