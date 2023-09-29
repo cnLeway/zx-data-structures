@@ -24,3 +24,4 @@ int main(void)
     int rval = mySolution.run();
     return rval;
 }
+
